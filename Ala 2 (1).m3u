@@ -614,12 +614,20 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1,MBC Power +
 http://streamer1.furrera.ps/MBC_Power_Plus/index.m3u8
 
-
-
 #EXTINF:-1,Hayat شارع الجامعه الأردنية
 https://video2.getstreamhosting.com:19360/8210/8210.m3u8
 #EXTINF:-1,Ain FM عمان
 https://hls.ainfm.site/app/live/ts:master.m3u8
+#EXTINF:-1,Fann FM عمان
+http://45.63.116.205/hls2/stream1.m3u8
+#EXTINF:-1,Yaqeen FM عمان
+http://45.63.116.205/hls4/stream1.m3u8
+#EXTINF:-1,Rotana FM عمان
+http://45.63.116.205/hls/stream1.m3u8
+#EXTINF:-1,Rotana Tarab FM عمان
+http://45.63.116.205/hls3/stream1.m3u8
+
+
 #EXTINF:-1,Orthodox بيت جالا
 http://htvint.mada.ps:8888/orthodox/index.m3u8
 

@@ -435,7 +435,6 @@ https://ffs3.gulfsat.com/Falestinona-TV/tracks-v1a1/mono.m3u8
 
 
 
-
 #EXTINF:-1,Alfajer 1 Jala
 https://live.jalatech.ps/alfajr1hd/index.m3u8?token=test
 #EXTINF:-1,Alfajer 2 Jala
@@ -504,7 +503,8 @@ http://streamer1.furrera.ps/Hayatfm-Nablus/index.m3u8
 
 
 
-
+#EXTINF:-1,Canaan tv vpn
+https://htvmada.mada.ps:4443/canaantv/index.m3u8
 
 #EXTINF:-1,GMTC pal vpn
 https://vstream3.hadara.ps:8443/gmtc/gmtc/playlist.m3u8
@@ -594,7 +594,18 @@ http://watch.alfajertv.com:2052/hls6/ftv6/index.m3u8
 #EXTINF:-1,Alfajer 7 HD vpn
 http://watch.alfajertv.com:2052/hls7/ftv7/index.m3u8
 
-
+#EXTINF:-1,Post Sport 1 HD vpn
+https://storage.posttv.ps:4443/postsport1/index.m3u8
+#EXTINF:-1,Post Sport 2 HD vpn
+https://storage.posttv.ps:4443/postsport2/index.m3u8
+#EXTINF:-1,Post Sport 3 HD vpn
+https://storage.posttv.ps:4443/postsport3/index.m3u8
+#EXTINF:-1,Post Sport 4 HD vpn
+https://storage.posttv.ps:4443/postsport4/index.m3u8
+#EXTINF:-1,Post Sport 5 HD vpn
+https://storage.posttv.ps:4443/postsport5/index.m3u8
+#EXTINF:-1,Post Sport 6 HD vpn
+https://storage.posttv.ps:4443/postsport6/index.m3u8
 
 
 #EXTINF:-1,WWE
@@ -735,7 +746,10 @@ http://live.showtvcloud.com/ShowTVVVV/m3JtsnJMNc/19343.ts
 #EXTINF:-1,Solo Kids
 http://live.showtvcloud.com/ShowTVVVV/m3JtsnJMNc/19342.ts
 
-
+#EXTINF:-1,Rock Action HD TH
+http://45.144.165.187:8080/live/playidlive/2535/81.ts
+#EXTINF:-1,Rock Entertainment HD TH
+http://45.144.165.187:8080/live/playidlive/2535/11091.ts
 
 
 
@@ -745,11 +759,12 @@ http://gvisiontv.channell.my.id/ch/ph/hbo.php/.mpd
 #EXTINF:-1,Cinemax V
 http://125.227.210.55:1001/VideoInput/play.ts
 
-
-
-
-
-
+#EXTINF:-1,HBO TH
+http://45.144.165.187:8080/live/playidlive/12345/77.ts
+#EXTINF:-1,HBO Hit TH
+http://45.144.165.187:8080/live/playidlive/12345/3018.ts
+#EXTINF:-1,Cinemax TH
+http://45.144.165.187:8080/live/playidlive/12345/78.ts
 
 #EXTINF:-1,Alwan sport HD1 
 http://bexui.com:8080/live/972594300077/972594300077/88921.m3u8

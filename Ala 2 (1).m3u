@@ -1,5 +1,28 @@
 ﻿#EXTM3U
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
+#EXTINF:-1,ottt
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q2luZW1heA/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=Chapeau/1
+#EXTINF:-1,PostSport 1 vpn
+http://46.43.66.18:44388/4YvMVwBhwPfXDFOxzvAtLQ/1786306949/5/112653/live/postsport1sd/index.m3u8
+#EXTVLCOPT:http-user-agent=Chapeau/1
+#EXTINF:-1,PostSport 2 vpn
+http://46.43.66.18:44388/rnejbbjusV_x7_IatqBWQg/1786307083/5/112653/live/postsport2sd/index.m3u8
+#EXTVLCOPT:http-user-agent=Chapeau/1
+#EXTINF:-1,PostSport 3 vpn
+http://46.43.66.18:44388/Lz8HeBZljjOlR_nU66MkSA/1786307142/5/112653/live/postsport3sd/index.m3u8
+
+EXTVLCOPT:http-user-agent=Chapeau/1
+#EXTINF:-1,PostSport 4 vpn
+http://46.43.66.18:44388/-LCrc4mR7PMV6BgXW3xQ7g/1786307169/5/112653/live/postsport4sd/index.m3u8
+EXTVLCOPT:http-user-agent=Chapeau/1
+#EXTINF:-1,PostSport 5 vpn
+http://46.43.66.18:44388/SctJ98DuqJKG2n9tuqlpHA/1786307193/5/112653/live/postsport5sd/index.m3u8
+
+EXTVLCOPT:http-user-agent=Chapeau/1
+#EXTINF:-1,PostSport 6 vpn
+http://46.43.66.18:44388/ibwuQKie6_iykdUJYEqb3w/1786307228/5/112653/live/postsport6sd/index.m3u8
 #EXTINF:-1,Bein 4K
 http://live.showtvcloud.com/ShowTVVVV/m3JtsnJMNc/2026.ts
 
@@ -624,6 +647,9 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 #EXTINF:-1,MBC Power +
 http://streamer1.furrera.ps/MBC_Power_Plus/index.m3u8
+
+
+
 
 #EXTINF:-1,Hayat شارع الجامعه الأردنية
 https://video2.getstreamhosting.com:19360/8210/8210.m3u8

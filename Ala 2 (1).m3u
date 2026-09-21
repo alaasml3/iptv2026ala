@@ -237,6 +237,9 @@ http://93.184.10.248/swa/index.m3u8
 http://93.184.10.248/asia/index.m3u8
 
 
+
+
+
 #EXTINF:-1,Nablus 1 live 
 http://93.184.10.248/NablusTV1/index.m3u8
 #EXTINF:-1,Nablus 2 live الدوار ثابت  
@@ -432,6 +435,16 @@ http://htvpalsat.mada.ps:8888/jdeco/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Falestinona tv
 https://ffs3.gulfsat.com/Falestinona-TV/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Post Tv Mazayaa
+http://streamer1.mazayaa.ps:7788/Al-Rabiaa-sport/index.m3u8
+#EXTINF:-1,Raya 1 Mazayaa
+http://streamer1.mazayaa.ps:7788/Raya-1/index.m3u8
+#EXTINF:-1,Alsalam tv Mazayaa
+http://streamer1.mazayaa.ps:7788/salam-pal/index.m3u8
+#EXTINF:-1,Mawwal Mazayaa
+http://streamer1.mazayaa.ps:7788/mawal/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PNN Mazayaa
+http://streamer1.mazayaa.ps:7788/PNN/index.m3u8
 
 
 #EXTINF:-1,Alfajer 1 Jala

@@ -466,52 +466,6 @@ https://live.jalatech.ps/horya1/index.m3u8?token=test
 #EXTINF:-1,Horiyaa 2 Jala
 https://live.jalatech.ps/horya2/index.m3u8?token=test
 
-#EXTINF:-1,Sama Falestine 1 F
-http://streamer1.furrera.ps/Sama-Palestine/index.m3u8
-#EXTINF:-1,Sama Falestine 2 F
-http://streamer1.furrera.ps/Sama2-Palestine/index.m3u8
-
-
-
-
-#EXTINF:-1,Maan F
-http://streamer2.furrera.ps/MaanTV/index.m3u8
-
-#EXTINF:-1,Orooba tv F
-http://streamer1.furrera.ps/GMTC/index.m3u8
-#EXTINF:-1,Halaramallah F
-http://streamer1.furrera.ps/HalaRamallah/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1,GMTC pal F
-http://streamer1.furrera.ps/StateOFPalestine/index.m3u8
-#EXTINF:-1,Mawwal F
-http://streamer1.furrera.ps/Mawwal-Bethlehem/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Al-Salam F
-http://streamer1.furrera.ps/SalamTV/index.m3u8
-#EXTINF:-1,Al-Salam 2 F
-http://streamer1.furrera.ps/Salam2TV/index.m3u8
-#EXTINF:-1,KolAlnas F
-http://streamer1.furrera.ps/Kol_El_Nas/index.m3u8
-#EXTINF:-1,MarahFM F
-http://streamer1.furrera.ps/MarahTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Al-ZytonaFM F
-http://streamer1.furrera.ps/AlZytounaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,PNN F
-http://streamer1.furrera.ps/pnn/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Radio Albalad F
-http://streamer1.furrera.ps/AlbaladFmTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Rehan F
-http://streamer1.furrera.ps/RehanTV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Horiyaa 1 F
-http://streamer1.furrera.ps/alhureya1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Horiyaa 2 F
-http://streamer1.furrera.ps/Alhureya/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Horiyaa 3 Sport F
-http://streamer1.furrera.ps/AlhureyaSport/index.m3u8
-#EXTINF:-1,Hayat fm F
-http://streamer1.furrera.ps/Hayatfm-Nablus/index.m3u8
 
 
 
@@ -634,8 +588,6 @@ https://dpv6ceilvhyrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1,TNA Wrestling
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
 
-#EXTINF:-1,MBC Power +
-http://streamer1.furrera.ps/MBC_Power_Plus/index.m3u8
 
 
 
@@ -711,34 +663,6 @@ http://live.showtvcloud.com/ReflectTV/pcDSsrsJqA/269.ts
 
 
 
-#EXTINF:-1,Sama-Arab-Action
-http://streamer1.furrera.ps/Sama-Ar-Action/index.m3u8
-
-#EXTINF:-1,Sama-English-Action
-http://streamer1.furrera.ps/Sama-En-Action/index.m3u8
-
-#EXTINF:-1,Sama-Marvel
-http://streamer1.furrera.ps/Sama-Marvel/index.m3u8
-
-#EXTINF:-1,Sama-Fantazia
-http://streamer1.furrera.ps/Sama-Fantazia/index.m3u8
-
-#EXTINF:-1,Sama-Product Action
-http://streamer1.furrera.ps/Sama-Product/index.m3u8
-
-#EXTINF:-1,Sama-War-Eras
-http://streamer1.furrera.ps/Sama-War-Eras/index.m3u8
-
-
-
-
-#EXTINF:-1,Sama-Historical Myths
-http://streamer1.furrera.ps/Sama-Astura/index.m3u8
-
-
-#EXTINF:-1,Sama-Martial-Arts
-http://streamer1.furrera.ps/Sama-Martil-Arts/index.m3u8
-
 
 #EXTINF:-1,Solo Movies AR
 http://live.showtvcloud.com/ShowTVVVV/m3JtsnJMNc/19345.ts
@@ -795,27 +719,6 @@ http://maxplayplatform.com:8080/live/MAXPLAY/1234/856.ts
 
 
 
-#EXTINF:-1, Felesport 1 F
-http://streamer4.furrera.ps/Felesport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Felesport 2 F
-http://streamer4.furrera.ps/Felesport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Felesport 3 F
-http://streamer4.furrera.ps/Felesport3/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Felesport 4 F
-http://streamer1.furrera.ps/Felesport4/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1,Alfajer 1 F
-http://streamer1.furrera.ps/FajerTV1/index.m3u8
-#EXTINF:-1,Alfajer 2 F
-http://streamer1.furrera.ps/FajerTV2/index.m3u8
-#EXTINF:-1,Alfajer 3 F
-http://streamer1.furrera.ps/FajerTV3/index.m3u8
-#EXTINF:-1,Alfajer 4 F
-http://streamer1.furrera.ps/FajerTV4/index.m3u8
-#EXTINF:-1,Alfajer 5 F
-http://streamer1.furrera.ps/FajerTV5/index.m3u8
-
 
 
 
@@ -850,17 +753,6 @@ http://streamer1.mazayaa.ps:7788/Al-Fajer-4/index.m3u8
 http://streamer1.mazayaa.ps:7788/Al-Fajer-5/index.m3u8
 
 
-
-#EXTINF:-1,Furrera Cinema
-http://streamer2.furrera.ps/FurreraCinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Furrera Action
-http://streamer2.furrera.ps/FurreraAction/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Furrera Kids
-http://streamer2.furrera.ps/FurreraKids/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Furrera Aflam
-http://streamer2.furrera.ps/FurreraAflam/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Furrera Documentary
-http://streamer2.furrera.ps/FurreraDoc/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,Duhok Sport Kurd

@@ -466,17 +466,16 @@ https://live.jalatech.ps/horya1/index.m3u8?token=test
 #EXTINF:-1,Horiyaa 2 Jala
 https://live.jalatech.ps/horya2/index.m3u8?token=test
 
-[03-Oct-26 12:26 PM] Ala Mohamed: #EXTINF:-1,Sama Falestine 1 F
+
+
+
+
+#EXTINF:-1,Sama Falestine 1 F
 http://streamer1.furrera.ps/Sama-Palestine/index.m3u8
 #EXTINF:-1,Sama Falestine 2 F
 http://streamer1.furrera.ps/Sama2-Palestine/index.m3u8
-
-
-
-
 #EXTINF:-1,Maan F
 http://streamer2.furrera.ps/MaanTV/index.m3u8
-
 #EXTINF:-1,Orooba tv F
 http://streamer1.furrera.ps/GMTC/index.m3u8
 #EXTINF:-1,Halaramallah F

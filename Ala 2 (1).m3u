@@ -508,35 +508,6 @@ http://streamer1.furrera.ps/Alhureya/tracks-v1a1/mono.m3u8
 http://streamer1.furrera.ps/AlhureyaSport/index.m3u8
 #EXTINF:-1,Hayat fm F
 http://streamer1.furrera.ps/Hayatfm-Nablus/index.m3u8
-#EXTINF:-1,MBC Power +
-http://streamer1.furrera.ps/MBC_Power_Plus/index.m3u8
-#EXTINF:-1,Furrera Cinema
-http://streamer2.furrera.ps/FurreraCinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Furrera Action
-http://streamer2.furrera.ps/FurreraAction/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Furrera Kids
-http://streamer2.furrera.ps/FurreraKids/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Furrera Aflam
-http://streamer2.furrera.ps/FurreraAflam/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Furrera Documentary
-http://streamer2.furrera.ps/FurreraDoc/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sama-Arab-Action
-http://streamer1.furrera.ps/Sama-Ar-Action/index.m3u8
-#EXTINF:-1,Sama-English-Action
-http://streamer1.furrera.ps/Sama-En-Action/index.m3u8
-#EXTINF:-1,Sama-Marvel
-http://streamer1.furrera.ps/Sama-Marvel/index.m3u8
-#EXTINF:-1,Sama-Fantazia
-http://streamer1.furrera.ps/Sama-Fantazia/index.m3u8
-#EXTINF:-1,Sama-Product Action
-http://streamer1.furrera.ps/Sama-Product/index.m3u8
-#EXTINF:-1,Sama-War-Eras
-http://streamer1.furrera.ps/Sama-War-Eras/index.m3u8
-#EXTINF:-1,Sama-Historical Myths
-http://streamer1.furrera.ps/Sama-Astura/index.m3u8
-#EXTINF:-1,Sama-Martial-Arts
-http://streamer1.furrera.ps/Sama-Martil-Arts/index.m3u8
-
 
 
 
@@ -660,6 +631,10 @@ https://dpv6ceilvhyrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
 
 
+#EXTINF:-1,MBC Power +
+http://streamer1.furrera.ps/MBC_Power_Plus/index.m3u8
+
+
 
 
 
@@ -731,7 +706,32 @@ http://live.showtvcloud.com/ReflectTV/pcDSsrsJqA/171.ts
 #EXTINF:-1,MBC Action HD
 http://live.showtvcloud.com/ReflectTV/pcDSsrsJqA/269.ts
 
-
+#EXTINF:-1,Furrera Cinema
+http://streamer2.furrera.ps/FurreraCinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Furrera Action
+http://streamer2.furrera.ps/FurreraAction/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Furrera Kids
+http://streamer2.furrera.ps/FurreraKids/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Furrera Aflam
+http://streamer2.furrera.ps/FurreraAflam/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Furrera Documentary
+http://streamer2.furrera.ps/FurreraDoc/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sama-Arab-Action
+http://streamer1.furrera.ps/Sama-Ar-Action/index.m3u8
+#EXTINF:-1,Sama-English-Action
+http://streamer1.furrera.ps/Sama-En-Action/index.m3u8
+#EXTINF:-1,Sama-Marvel
+http://streamer1.furrera.ps/Sama-Marvel/index.m3u8
+#EXTINF:-1,Sama-Fantazia
+http://streamer1.furrera.ps/Sama-Fantazia/index.m3u8
+#EXTINF:-1,Sama-Product Action
+http://streamer1.furrera.ps/Sama-Product/index.m3u8
+#EXTINF:-1,Sama-War-Eras
+http://streamer1.furrera.ps/Sama-War-Eras/index.m3u8
+#EXTINF:-1,Sama-Historical Myths
+http://streamer1.furrera.ps/Sama-Astura/index.m3u8
+#EXTINF:-1,Sama-Martial-Arts
+http://streamer1.furrera.ps/Sama-Martil-Arts/index.m3u8
 
 
 

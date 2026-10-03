@@ -476,8 +476,7 @@ http://streamer1.furrera.ps/Sama-Palestine/index.m3u8
 http://streamer1.furrera.ps/Sama2-Palestine/index.m3u8
 #EXTINF:-1,Maan F
 http://streamer2.furrera.ps/MaanTV/index.m3u8
-#EXTINF:-1,Orooba tv F
-http://streamer1.furrera.ps/GMTC/index.m3u8
+
 #EXTINF:-1,Halaramallah F
 http://streamer1.furrera.ps/HalaRamallah/tracks-v1a1/mono.m3u8
 #EXTINF:-1,GMTC pal F

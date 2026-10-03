@@ -876,7 +876,7 @@ https://live.jalatech.ps/al-arabi_jordan/index.m3u8?token=test
 http://bexui.com:8080/live/972594300077/972594300077/376.m3u8
 
 #EXTINF:-1,Skynews arabia
-http://bexui.com:8080/live/972594300077/972594300077/375.m3u8
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
 #EXTINF:-1,Roya
 http://maxplayplatform.com:8080/live/MAXPLAY/1234/904.ts
 

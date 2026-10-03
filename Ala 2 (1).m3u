@@ -795,6 +795,10 @@ http://streamer1.furrera.ps/FajerTV3/index.m3u8
 http://streamer1.furrera.ps/FajerTV4/index.m3u8
 #EXTINF:-1,Alfajer 5 F
 http://streamer1.furrera.ps/FajerTV5/index.m3u8
+#EXTINF:-1,Alfajer 6 F
+http://streamer1.furrera.ps/FajerTV6/index.m3u8
+#EXTINF:-1,Alfajer 7 F
+http://streamer1.furrera.ps/FajerTV7/index.m3u8
 
 
 

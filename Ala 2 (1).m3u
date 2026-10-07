@@ -629,6 +629,8 @@ https://stream.bethlehem-city.org/pano_public/index.m3u8
 http://51.75.127.199:3141/starmovieshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star movies select hd
 http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
+#EXTINF:-1,Movies Now hd
+http://103.151.60.162:2122/play/a02w/index.m3u8?hls
 
 #EXTINF:-1,Star Movies AR
 http://live.showtvcloud.com/ReflectTV/pcDSsrsJqA/15956.ts

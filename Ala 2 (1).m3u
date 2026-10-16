@@ -550,19 +550,19 @@ https://vstream2.hadara.ps:8443/AlfajertvHDTwo_web/web/chunks.m3u8
 
 
 #EXTINF:-1,Alfajer 1 HD vpn
-http://watch.alfajertv.com:2052/hls/ftv1/index.m3u8
+http://e2.alfajertv.com/hls/ftv1/index.m3u8
 #EXTINF:-1,Alfajer 2 HD vpn
-http://watch.alfajertv.com:2052/hls2/ftv2/index.m3u8
+http://e2.alfajertv.com/hls2/ftv2/index.m3u8
 #EXTINF:-1,Alfajer 3 HD vpn
-http://watch.alfajertv.com:2052/hls3/ftv3/index.m3u8
+http://e2.alfajertv.com/hls3/ftv3/index.m3u8
 #EXTINF:-1,Alfajer 4 HD vpn
-http://watch.alfajertv.com:2052/hls4/ftv4/index.m3u8
+http://e2.alfajertv.com/hls4/ftv4/index.m3u8
 #EXTINF:-1,Alfajer 5 HD vpn
-http://watch.alfajertv.com:2052/hls5/ftv5/index.m3u8
+http://e2.alfajertv.com/hls5/ftv5/index.m3u8
 #EXTINF:-1,Alfajer 6 HD vpn
-http://watch.alfajertv.com:2052/hls6/ftv6/index.m3u8
+http://e2.alfajertv.com/hls6/ftv6/index.m3u8
 #EXTINF:-1,Alfajer 7 HD vpn
-http://watch.alfajertv.com:2052/hls7/ftv7/index.m3u8
+http://e2.alfajertv.com/hls7/ftv7/index.m3u8
 
 #EXTINF:-1,Post Sport 1 HD vpn
 https://storage.posttv.ps:4443/postsport1/index.m3u8

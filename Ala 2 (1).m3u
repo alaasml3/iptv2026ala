@@ -733,24 +733,11 @@ http://live.showtvcloud.com/ShowTVVVV/m3JtsnJMNc/19343.ts
 #EXTINF:-1,Solo Kids
 http://live.showtvcloud.com/ShowTVVVV/m3JtsnJMNc/19342.ts
 
-#EXTINF:-1,Rock Action HD TH
-http://45.144.165.187:8080/live/playidlive/12345/81.ts
-#EXTINF:-1,Rock Entertainment HD TH
-http://45.144.165.187:8080/live/playidlive/12345/11091.ts
 
 
-#EXTINF:-1,HBO EN
-http://gvisiontv.channell.my.id/ch/ph/hbo.php/.mpd
 
-#EXTINF:-1,Cinemax V
-http://125.227.210.55:1001/VideoInput/play.ts
 
-#EXTINF:-1,HBO TH
-http://45.144.165.187:8080/live/playidlive/12345/77.ts
-#EXTINF:-1,HBO Hit TH
-http://45.144.165.187:8080/live/playidlive/12345/3018.ts
-#EXTINF:-1,Cinemax TH
-http://45.144.165.187:8080/live/playidlive/12345/78.ts
+
 
 
 

@@ -31,11 +31,13 @@ http://live.showtvcloud.com/ReflectTV/pcDSsrsJqA/303.ts
 #EXTINF:-1,Horiyaa 3 Sport S 
 http://live.showtvcloud.com/ReflectTV/pcDSsrsJqA/18752.ts
 
+
+
 #EXTINF:-1,Al-Salam S
+http://live.showtvcloud.com/ReflectTV/pcDSsrsJqA/18089.ts
+#EXTINF:-1,Al-Salam 2 S
 http://live.showtvcloud.com/ReflectTV/pcDSsrsJqA/308.ts
 
-#EXTINF:-1,Al-Salam 2 S
-http://live.showtvcloud.com/ReflectTV/pcDSsrsJqA/18089.ts
 #EXTINF:-1,KolAlNas S
 http://live.showtvcloud.com/ReflectTV/pcDSsrsJqA/307.ts
 #EXTINF:-1,PNN S 
@@ -664,10 +666,7 @@ http://streamer1.furrera.ps/AlhureyaSport/index.m3u8
 #EXTINF:-1,Hayat fm F
 http://streamer1.furrera.ps/Hayatfm-Nablus/index.m3u8
 
-#EXTINF:-1,Star movies hd
-http://51.75.127.199:3141/starmovieshd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star movies select hd
-http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
+
 #EXTINF:-1,Movies Now hd
 http://103.151.60.162:2122/play/a02w/index.m3u8?hls
 
@@ -877,6 +876,4 @@ http://maxplayplatform.com:8080/live/MAXPLAY/1234/904.ts
 #EXTINF:-1,IRIB UHD/4K
 https://live-aburayhan1101.telewebion.ir/ek/faratar/live/2160p/index.m3u8
 
-#EXTINF:-1,Solo 4K
-http://live.showtvcloud.com/ShowTVVVV/m3JtsnJMNc/19309.ts
 

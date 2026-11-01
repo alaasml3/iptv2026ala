@@ -437,16 +437,6 @@ http://htvpalsat.mada.ps:8888/jdeco/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Falestinona tv
 https://ffs3.gulfsat.com/Falestinona-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Post Tv Mazayaa
-http://streamer1.mazayaa.ps:7788/Al-Rabiaa-sport/index.m3u8
-#EXTINF:-1,Raya 1 Mazayaa
-http://streamer1.mazayaa.ps:7788/Raya-1/index.m3u8
-#EXTINF:-1,Alsalam tv Mazayaa
-http://streamer1.mazayaa.ps:7788/salam-pal/index.m3u8
-#EXTINF:-1,Mawwal Mazayaa
-http://streamer1.mazayaa.ps:7788/mawal/tracks-v1a1/mono.m3u8
-#EXTINF:-1,PNN Mazayaa
-http://streamer1.mazayaa.ps:7788/PNN/index.m3u8
 
 
 #EXTINF:-1,Alfajer 1 Jala
@@ -830,16 +820,7 @@ http://fluu.systemnet.tv/Al.Fajer.6.TV/index.m3u8
 http://fluu.systemnet.tv/Al.Fajer.7.TV/index.m3u8
 
 
-#EXTINF:-1,Alfajer 1 Mazayaa
-http://streamer1.mazayaa.ps:7788/Al-Fajer-1/index.m3u8
-#EXTINF:-1,Alfajer 2 Mazayaa
-http://streamer1.mazayaa.ps:7788/Al-Fajer-2/index.m3u8
-#EXTINF:-1,Alfajer 3 Mazayaa
-http://streamer1.mazayaa.ps:7788/Al-Fajer-3/index.m3u8
-#EXTINF:-1,Alfajer 4 Mazayaa
-http://streamer1.mazayaa.ps:7788/Al-Fajer-4/index.m3u8
-#EXTINF:-1,Alfajer 5 Mazayaa
-http://streamer1.mazayaa.ps:7788/Al-Fajer-5/index.m3u8
+
 
 
 
@@ -851,8 +832,7 @@ http://bexui.com:8080/live/972594300077/972594300077/7306.ts
 #EXTINF:-1,Dasinya Sport Kurd
 http://bexui.com:8080/live/972594300077/972594300077/93167.ts
 
-#EXTINF:-1,Nature mazayaa
-http://streamer1.mazayaa.ps:7788/beIN-Nature/index.m3u8
+
 
 
 

@@ -856,4 +856,25 @@ http://maxplayplatform.com:8080/live/MAXPLAY/1234/904.ts
 #EXTINF:-1,IRIB UHD/4K
 https://live-aburayhan1101.telewebion.ir/ek/faratar/live/2160p/index.m3u8
 
+#EXTINF:-1,HBO
+http://202.150.165.66:8088/play/100-HBO/index.m3u8
+#EXTINF:-1,HBO Hits
+http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
+#EXTINF:-1,HBO Family
+http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
+#EXTINF:-1,HBO Signature
+http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
+#EXTINF:-1,Cinemax
+http://125.227.210.55:1001/VideoInput/play.ts
+
+#EXTINF:-1,HBO Blue
+http://125.227.210.55:1003/VideoInput/play.ts
+#EXTINF:-1,HBO 720p
+https://tinyurl.com/yn3d3rmd
+#EXTINF:-1,Cinemax 720p
+https://tinyurl.com/44efw2rx
+
+
+
+
 

@@ -757,19 +757,7 @@ http://streamer1.furrera.ps/Sama-Astura/index.m3u8
 #EXTINF:-1,Sama-Martial-Arts
 http://streamer1.furrera.ps/Sama-Martil-Arts/index.m3u8
 
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTINF:-1,Rock Action Vision+
-http://proxy-v.rctiplus.id/live/GvisionTV/rockaction/index.m3u8
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTINF:-1,Rock Entertainment Vision+
-https://proxy-v.rctiplus.id/live/GvisionTV/rockent/index.m3u8
 
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTINF:-1,Galaxy Vision+
-http://proxy-v.rctiplus.id/live/GvisionTV/galaxy/index.m3u8
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTINF:-1,Galaxy Premium Vision+
-https://proxy-v.rctiplus.id/live/GvisionTV/galaxyprem/index.m3u8
 
 
 #EXTINF:-1,Galaxy ID

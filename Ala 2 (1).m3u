@@ -757,18 +757,36 @@ http://streamer1.furrera.ps/Sama-Astura/index.m3u8
 #EXTINF:-1,Sama-Martial-Arts
 http://streamer1.furrera.ps/Sama-Martil-Arts/index.m3u8
 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTINF:-1,Rock Action Vision+
+http://proxy-v.rctiplus.id/live/GvisionTV/rockaction/index.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTINF:-1,Rock Entertainment Vision+
+https://proxy-v.rctiplus.id/live/GvisionTV/rockent/index.m3u8
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTINF:-1,Galaxy Vision+
+http://proxy-v.rctiplus.id/live/GvisionTV/galaxy/index.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTINF:-1,Galaxy Premium Vision+
+https://proxy-v.rctiplus.id/live/GvisionTV/galaxyprem/index.m3u8
+
+
 #EXTINF:-1,Galaxy ID
 http://spmid.pw/play/GilYnrCW_MM0O4y8RxRw4g9qEOo2U4K5YXfUc2ZdzVQ
 #EXTINF:-1,Galaxy Premium ID
 http://spmid.pw/play/GilYnrCW_MM0O4y8RxRw4tXz_e8POTLQnU2kHsS8VEM
 
 
-#EXTINF:-1,HBO Blue
+#EXTINF:-1,HBO Blue V
 http://125.227.210.55:1003/VideoInput/play.ts
+#EXTINF:-1,Cinemax V
+http://125.227.210.55:1001/VideoInput/play.ts 
 #EXTINF:-1,HBO EN
 https://tinyurl.com/yn3d3rmd
 #EXTINF:-1,Cinemax EN
 https://tinyurl.com/44efw2rx
+
 
 #EXTINF:-1,HBO
 http://202.150.165.66:8088/play/100-HBO/index.m3u8
@@ -779,8 +797,7 @@ http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
 #EXTINF:-1,HBO Signature
 http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
 #EXTINF:-1,Cinemax
-http://125.227.210.55:1001/VideoInput/play.ts
-
+http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
 
 #EXTINF:-1,HBO ID
 http://spmid.pw/play/GilYnrCW_MM0O4y8RxRw4q_QzqDDpib6iIH4CQh0JGk

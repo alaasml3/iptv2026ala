@@ -616,6 +616,14 @@ https://cdn2.cast-tv.com/23595/Live_Kotel3_ABR/playlist.m3u8
 #EXTINF:-1,Betlahim Cam View
 https://stream.bethlehem-city.org/pano_public/index.m3u8
 
+#EXTINF:-1,Qalqilyah Cam 1  View
+https://live.canaantv.ps:8585/live/abuali.m3u8
+#EXTINF:-1,Qalqilyah Cam 2  View
+https://live.canaantv.ps:8585/live/alfateh.m3u8
+#EXTINF:-1,Qalqilyah Cam 3  View
+https://live.canaantv.ps:8585/live/mad5l.m3u8
+#EXTINF:-1,Qalqilyah Cam 4  View
+https://live.canaantv.ps:8585/live/laptop.m3u8
 
 
 #EXTINF:-1,Sama Falestine 1 F

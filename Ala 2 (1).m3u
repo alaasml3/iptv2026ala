@@ -666,8 +666,7 @@ http://streamer1.furrera.ps/AlhureyaSport/index.m3u8
 http://streamer1.furrera.ps/Hayatfm-Nablus/index.m3u8
 
 
-#EXTINF:-1,Movies Now hd
-http://103.151.60.162:2122/play/a02w/index.m3u8?hls
+
 
 #EXTINF:-1,Star Movies AR
 http://live.showtvcloud.com/ReflectTV/pcDSsrsJqA/15956.ts
@@ -894,10 +893,12 @@ http://bexui.com:8080/live/972594300077/972594300077/93167.ts
 #EXTINF:-1,Al Jazeera
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 
-#EXTINF:-1,Alaraby TV
-https://live.jalatech.ps/al-arabi_jordan/index.m3u8?token=test
 #EXTINF:-1,Alarabia
 http://bexui.com:8080/live/972594300077/972594300077/376.m3u8
+
+
+#EXTINF:-1,Alaraby TV
+https://live.jalatech.ps/al-arabi_jordan/index.m3u8?token=test
 
 #EXTINF:-1,Skynews arabia
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8

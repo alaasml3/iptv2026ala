@@ -765,15 +765,6 @@ http://streamer1.furrera.ps/Sama-Astura/index.m3u8
 #EXTINF:-1,Sama-Martial-Arts
 http://streamer1.furrera.ps/Sama-Martil-Arts/index.m3u8
 
-
-
-
-#EXTINF:-1,Galaxy ID
-http://spmid.pw/play/GilYnrCW_MM0O4y8RxRw4g9qEOo2U4K5YXfUc2ZdzVQ
-#EXTINF:-1,Galaxy Premium ID
-http://spmid.pw/play/GilYnrCW_MM0O4y8RxRw4tXz_e8POTLQnU2kHsS8VEM
-
-
 #EXTINF:-1,HBO Blue V
 http://125.227.210.55:1003/VideoInput/play.ts
 #EXTINF:-1,Cinemax V
@@ -783,6 +774,45 @@ https://tinyurl.com/yn3d3rmd
 #EXTINF:-1,Cinemax EN
 https://tinyurl.com/44efw2rx
 
+#EXTINF:-1,Galaxy ID
+http://spmid.pw/play/GilYnrCW_MM0O4y8RxRw4g9qEOo2U4K5YXfUc2ZdzVQ
+#EXTINF:-1,Galaxy Premium ID
+http://spmid.pw/play/GilYnrCW_MM0O4y8RxRw4tXz_e8POTLQnU2kHsS8VEM
+
+#EXTINF:-1,Star Movies HD
+http://hometv.biz.id:80/play/cHwPLExiwouxaI-3uyH2Sjf5e7EKn6bfj3rXM-mdV9M
+#EXTINF:-1,Star Movies Select HD
+http://hometv.biz.id:80/play/cHwPLExiwouxaI-12HPP7rMPoXZn56LsVgVez2WKfXCusnNQr
+#EXTINF:-1,Movies Now
+http://hometv.biz.id:80/play/cHwPLExiwouxaI-1HqRXBxAp2haezVSep8AdHWNcjTiQoL8mj
+#EXTINF:-1,MNX Movies
+http://hometv.biz.id:80/play/cHwPLExiwouxaI-3uyH2SmGffQgyW_mi5nLyY6lxGpw
+#EXTINF:-1,MN+ Movies
+http://hometv.biz.id:80/play/cHwPLExiwouxaI-3uyH2Snw61DPFwN-zaV02-7jvGBA
+#EXTINF:-1,Studio Universal
+http://hometv.biz.id:80/play/cHwPLExiwouxaI-12HPP7rMPoXZn56LsVgVez2WKfXCusnNQr
+
+
+
+#EXTINF:-1,Rock Action HD
+http://hometv.biz.id:80/play/cHwPLExiwouxaI-3uyH2SucaFUAzQBZsaTx-c-1kmBM
+#EXTINF:-1,Rock Entertainment HD
+http://hometv.biz.id:80/play/cHwPLExiwouxaI-3uyH2SpTtUhea6D1i4jfcji9qOIg
+#EXTINF:-1,Galaxy HD
+http://hometv.biz.id:80/play/cHwPLExiwouxaI-3uyH2SuVDFpYy0qLUMd_9KuPUZ0o
+#EXTINF:-1,Galaxy Premium HD
+http://hometv.biz.id:80/play/cHwPLExiwouxaI-3uyH2StIqyA_sA-DdgHn-0Fl6Rks
+
+#EXTINF:-1,HBO HD
+http://hometv.biz.id:80/play/cHwPLExiwouxaI-3uyH2So5TFCAwTzZrJVyitMu9qPI
+#EXTINF:-1,HBO Hits HD
+http://hometv.biz.id:80/play/cHwPLExiwouxaI-3uyH2SlOpeMk01M0oOqyMxgtLPhc
+#EXTINF:-1,HBO Family HD
+http://hometv.biz.id:80/play/cHwPLExiwouxaI-3uyH2SmeMUzaBjnSOCyogE0TCb8w
+#EXTINF:-1,HBO Signature HD
+http://hometv.biz.id:80/play/cHwPLExiwouxaI-1HqRXBxAp2haezVSep8AdHWNcjTiQoL8mj
+#EXTINF:-1,Cinemax HD
+http://hometv.biz.id:80/play/cHwPLExiwouxaI-3uyH2SnbXjva4rr_wcw6JgNb-Oyw
 
 #EXTINF:-1,HBO
 http://202.150.165.66:8088/play/100-HBO/index.m3u8

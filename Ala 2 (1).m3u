@@ -532,7 +532,9 @@ https://htvmada.mada.ps:4443/salamtv/index.m3u8
 
 #EXTINF:-1,KolAlnas vpn
 http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8
- 
+#EXTINF:-1,KolAlnas 2 vpn
+
+https://htvmada.mada.ps:4443/kolalnas2/index.m3u8
 #EXTINF:-1,Wattan HD vpn
 https://vstream3.hadara.ps:8443/WattanHD/WattanHD/playlist.m3u8
 

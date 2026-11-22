@@ -538,10 +538,11 @@ https://htvmada.mada.ps:4443/kolalnas2/index.m3u8
 #EXTINF:-1,Wattan HD vpn
 https://vstream3.hadara.ps:8443/WattanHD/WattanHD/playlist.m3u8
 
-
 #EXTINF:-1,Fajer 2 vpn
 https://vstream2.hadara.ps:8443/AlfajertvHDTwo_web/web/chunks.m3u8
 
+#EXTINF:-1,Sky tv PS vpn
+https://stream.superskytv.com/hls/master.m3u8
 
 #EXTINF:-1,Alfajer 1 HD vpn
 http://e2.alfajertv.com/hls/ftv1/index.m3u8

@@ -1,4 +1,7 @@
-﻿#EXTM3U
+﻿
+
+
+#EXTM3U
 #EXTINF:-1,Bein 4K
 http://live.showtvcloud.com/ShowTVVVV/m3JtsnJMNc/2026.ts
 
@@ -620,9 +623,9 @@ https://cdn2.cast-tv.com/23595/Live_Kotel3_ABR/playlist.m3u8
 https://stream.bethlehem-city.org/pano_public/index.m3u8
 
 #EXTINF:-1,Qalqilyah Cam 1 View
-https://live.canaantv.ps:8585/live/abuali.m3u8
+https://live.canaantv.ps:8888/live/abuali.m3u8
 #EXTINF:-1,Qalqilyah Cam 2 View
-https://live.canaantv.ps:8585/live/alfateh.m3u8
+https://live.canaantv.ps:8888/live/alfateh.m3u8
 #EXTINF:-1,Qalqilyah Cam 3 View
 https://live.canaantv.ps:8585/live/mad5l.m3u8
 #EXTINF:-1,Qalqilyah Cam 4 View
@@ -920,6 +923,34 @@ http://maxplayplatform.com:8080/live/MAXPLAY/1234/904.ts
 https://live-aburayhan1101.telewebion.ir/ek/faratar/live/2160p/index.m3u8
 
 
+#EXTINF:-1,Alfajer 1 HD rstream
+https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2Fstream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dfajer1-hd2
 
+
+#EXTINF:-1,Alfajer 1 SD rstream
+https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2Fstream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dfajer1
+
+#EXTINF:-1,Alfajer 2 SD rstream
+https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2Fstream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dfajer2
+#EXTINF:-1,Alfajer 3 SD rstream
+https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2Fstream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dfajer3
+#EXTINF:-1,Alfajer 4 SD rstream
+https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2Fstream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dfajer4
+#EXTINF:-1,Alfajer 5 SD rstream
+https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2Fstream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dfajer5
+
+
+
+
+
+
+
+#EXTINF:-1,Raya HD1 stream
+https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2FStream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dhttps%3A%2F%2Fvstream3.hadara.ps%3A8443%2FRayaHDTV1_web%2Fweb%2Fchunks.m3u8
+#EXTINF:-1,Raya HD2 stream
+https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2FStream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dhttps%3A%2F%2Fvstream3.hadara.ps%3A8443%2FRayaHDTV2_web%2Fweb%2Fchunks.m3u8
+
+#EXTINF:-1,Raya HD3 stream
+https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2FStream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dhttps%3A%2F%2Fvstream3.hadara.ps%3A8443%2FRayaHDTV3_web%2Fweb%2Fchunks.m3u8
 
 

@@ -544,7 +544,7 @@ https://vstream3.hadara.ps:8443/WattanHD/WattanHD/playlist.m3u8
 #EXTINF:-1,Fajer 2 vpn
 https://vstream2.hadara.ps:8443/AlfajertvHDTwo_web/web/chunks.m3u8
 
-#EXTINF:-1,Sky tv PS vpn
+#EXTINF:-1,Sky Sport PS vpn
 https://stream.superskytv.com/hls/master.m3u8
 
 #EXTINF:-1,Alfajer 1 HD vpn
@@ -924,21 +924,20 @@ https://live-aburayhan1101.telewebion.ir/ek/faratar/live/2160p/index.m3u8
 
 
 #EXTINF:-1,Alfajer 1 HD rstream
-https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2Fstream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dfajer1-hd2
-
+http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=fajer1-hd2
 
 #EXTINF:-1,Alfajer 1 SD rstream
-https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2Fstream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dfajer1
-
+http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=fajer1
 #EXTINF:-1,Alfajer 2 SD rstream
-https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2Fstream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dfajer2
+http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=fajer2
 #EXTINF:-1,Alfajer 3 SD rstream
-https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2Fstream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dfajer3
-#EXTINF:-1,Alfajer 4 SD rstream
-https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2Fstream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dfajer4
-#EXTINF:-1,Alfajer 5 SD rstream
-https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2Fstream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dfajer5
+http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=fajer3
 
+#EXTINF:-1,Alfajer 4 SD rstream
+http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=fajer4
+
+#EXTINF:-1,Alfajer 5 SD rstream
+http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=fajer5
 
 
 
@@ -946,11 +945,15 @@ https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topup
 
 
 #EXTINF:-1,Raya HD1 stream
-https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2FStream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dhttps%3A%2F%2Fvstream3.hadara.ps%3A8443%2FRayaHDTV1_web%2Fweb%2Fchunks.m3u8
+http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=https://vstream3.hadara.ps:8443/RayaHDTV1_web/web/playlist.m3u8
 #EXTINF:-1,Raya HD2 stream
-https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2FStream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dhttps%3A%2F%2Fvstream3.hadara.ps%3A8443%2FRayaHDTV2_web%2Fweb%2Fchunks.m3u8
+http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=https://vstream3.hadara.ps:8443/RayaHDTV2_web/web/playlist.m3u8
 
 #EXTINF:-1,Raya HD3 stream
-https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2FStream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dhttps%3A%2F%2Fvstream3.hadara.ps%3A8443%2FRayaHDTV3_web%2Fweb%2Fchunks.m3u8
-
-
+http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=https://vstream3.hadara.ps:8443/RayaHDTV3_web/web/playlist.m3u8
+#EXTINF:-1,Sky Sport PS  stream
+http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=https://stream.superskytv.com/hls/720p/index.m3u8
+#EXTINF:-1,KolAlnas 2 stream
+http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=http://htvmada.mada.ps:8888/kolalnas2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Canaan tv stream
+http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=https://htvmada.mada.ps:4443/canaantv/mono.m3u8

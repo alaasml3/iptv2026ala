@@ -924,20 +924,20 @@ http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=http://e
 #EXTINF:-1,Alfajer 7 HD
 http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=http://e2.alfajertv.com/hls7/ftv7/index.m3u8
 
-#EXTINF:-1,Alfajer 1 HD rstream
+#EXTINF:-1,Alfajer 1 HD stream
 http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=fajer1-hd2
 
-#EXTINF:-1,Alfajer 1 SD rstream
+#EXTINF:-1,Alfajer 1 SD stream
 http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=fajer1
-#EXTINF:-1,Alfajer 2 SD rstream
+#EXTINF:-1,Alfajer 2 SD stream
 http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=fajer2
-#EXTINF:-1,Alfajer 3 SD rstream
+#EXTINF:-1,Alfajer 3 SD stream
 http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=fajer3
 
-#EXTINF:-1,Alfajer 4 SD rstream
+#EXTINF:-1,Alfajer 4 SD stream
 http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=fajer4
 
-#EXTINF:-1,Alfajer 5 SD rstream
+#EXTINF:-1,Alfajer 5 SD stream
 http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=fajer5
 
 
@@ -958,3 +958,5 @@ http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=https://
 http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=http://htvmada.mada.ps:8888/kolalnas2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Canaan tv stream
 http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=https://htvmada.mada.ps:4443/canaantv/mono.m3u8
+#EXTINF:-1,Manbar Alquds tv stream
+https://htvmada.mada.ps:4443/manbaralquds/mono.m3u8

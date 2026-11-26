@@ -959,4 +959,4 @@ http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=http://h
 #EXTINF:-1,Canaan tv stream
 http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=https://htvmada.mada.ps:4443/canaantv/mono.m3u8
 #EXTINF:-1,Manbar Alquds tv stream
-https://htvmada.mada.ps:4443/manbaralquds/mono.m3u8
+http://213.6.249.126:8560/api/stream/GetModifiedM3U8?token=bahloool&url=https://htvmada.mada.ps:4443/manbaralquds/mono.m3u8

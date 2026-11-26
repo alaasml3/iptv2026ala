@@ -609,6 +609,16 @@ https://live.canaantv.ps:8888/live/alaptop.m3u8
 #EXTINF:-1,Qalqilyah Cam 5 View
 https://live.canaantv.ps:8888/live/alfateh.m3u8
 
+#EXTINF:-1,الخليل  Cam 1 View
+https://egate.hebron-city.ps:450/api/cameras/stream/60010
+#EXTINF:-1,الخليل  Cam 2 View
+https://egate.hebron-city.ps:450/api/cameras/stream/30009
+#EXTINF:-1,الخليل  Cam 3 View
+https://egate.hebron-city.ps:450/api/cameras/stream/60007
+#EXTINF:-1,الخليل  Cam 4 View
+https://egate.hebron-city.ps:450/api/cameras/stream/90003
+
+
 #EXTINF:-1,Sama Falestine 1 F
 http://streamer1.furrera.ps/Sama-Palestine/index.m3u8
 #EXTINF:-1,Sama Falestine 2 F
